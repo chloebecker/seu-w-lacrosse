@@ -1,0 +1,22 @@
+
+.tab a.active {
+  color: #0d47a1 !important;
+}
+
+.tabs .tab a:hover {
+  color: #1976d2 !important;
+}
+
+.tabs .tab a {
+  color: #0d47a1 !important;
+}
+
+.tabs .indicator {
+  background-color: #1976d2 !important;
+}
+
+/* WHAT IS GOING ON
+li:disabled {
+  color: #1e88e5 !important;
+}
+*/
