@@ -1,6 +1,7 @@
 $(document).ready(function(){
-      $('.carousel.carousel-slider').carousel({
-      	fullWidth: true
+      $('.carousel.carousel-slider.center').carousel({
+      	fullWidth: true,
+      	duration: 100
       });
 });
     

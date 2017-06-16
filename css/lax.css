@@ -19,4 +19,18 @@
 li:disabled {
   color: #1e88e5 !important;
 }
+
+
+.carousel .carousel-item {
+  width: 300px !important;
+}
 */
+
+.carousel {
+  max-height: 500px;
+}
+
+.carousel-item {
+  background-size: cover; 
+  background-position: center;
+}
