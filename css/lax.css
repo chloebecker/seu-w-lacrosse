@@ -27,7 +27,8 @@ li:disabled {
 */
 
 .carousel {
-  max-height: 500px;
+  min-height: 550px;
+  max-height: 750px;
 }
 
 .carousel-item {
