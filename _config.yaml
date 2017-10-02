@@ -24,6 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 css_link: "lax.css"
 
 social_media: seuwlax
+email: womenlax@stedwards.edu
+mailto: "mailto:womenlax@stedwards.edu"
 
 # Build settings
 markdown: kramdown

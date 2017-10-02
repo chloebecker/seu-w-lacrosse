@@ -1,8 +1,50 @@
-#navBar li {
-	display: inline;
-	active: none;
+#header {
+	padding: 10px 0 10px 0;
+	background: #EDEDED;
+	font-size: 34px;
+	font-weight: 500;
 }
 
-#navBar ul {
-    list-style-type:none;
+#nav-bar {
+	padding: 15px 0;
+	margin-bottom: 20px;
+	background: #FAFAFA;
+	color: #7A7A7A;
+	font-size: 18px;
 }
+
+#page-content {
+	padding: 15px 0;
+}
+
+/* unvisited, visited link */
+a:link, a:visited {
+    color: #7A7A7A;
+    text-decoration: none;
+}
+
+
+/* mouse over, selected link */
+a:hover, a:active {
+    color: #2E2E2E;
+    text-decoration: none;
+}
+
+/*footer*/
+.footer-social-icons ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 10px 20px 10px 20px;
+}
+
+.footer-social-icons ul {
+	padding: 0;
+}
+
+footer {
+	background: #EDEDED;
+	margin: auto;
+	text-align: center;
+	padding: 30px 0 20px 0;
+}
+
