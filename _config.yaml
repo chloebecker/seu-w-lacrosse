@@ -27,6 +27,8 @@ social_media: seuwlax
 email: womenlax@stedwards.edu
 mailto: "mailto:womenlax@stedwards.edu"
 
+team_photo:
+
 # Build settings
 markdown: kramdown
 theme: minima
